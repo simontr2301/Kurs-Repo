@@ -1,0 +1,16 @@
+country neonatal_urban neonatal_rural infant_urban infant_rural underfive_urban underfive_rural
+Armenia 17.9 19.5 24.8 30.8 26.4 41.4
+Cambodia 28.7 37.2 65.1 91.4 76.4 110.2
+Colombia 13.8 15.4 20.4 26.1 22.5 32.4
+Congo 35.4 34.8 66.3 93.1 108 136.3
+Egypt 21.4 23.5 31.6 45 39.1 55.2
+Ethiopia 34.4 41.1 65.9 81.4 98.5 135.2
+Guinea 45.7 57.5 82.1 117.9 132.7 202.5
+Haiti 27.5 31.8 57.4 76.1 77.2 113.6
+Honduras 15.7 19.7 23.6 32.6 28.5 42.8
+India 32.4 48.6 48.4 70.6 60.4 93.2
+Peru 14.5 21.4 23.3 34 30.5 47.4
+Republic_of_Moldova 10.7 15.7 17.4 23.3 20.6 29.4
+Rwanda 31.8 46 68.8 107.9 119.7 190.6
+Senegal 31.4 45.8 51.7 81.7 90.2 159.5
+Zimbabwe 20.5 21.7 46 50.9 63.5 71.9

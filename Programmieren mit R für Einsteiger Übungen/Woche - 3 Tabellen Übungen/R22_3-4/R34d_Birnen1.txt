@@ -1,0 +1,10 @@
+Person	Birnen
+David	2
+Elisabeth	16
+Jannes	4
+Jennifer	6
+Bernd	17
+Maria	1
+Patrick	10
+Robert	7
+Michael	11

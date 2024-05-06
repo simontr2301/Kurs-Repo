@@ -1,0 +1,5 @@
+Person	Birnen
+Josef	3
+Chris	9
+Susan	5
+Erika	12

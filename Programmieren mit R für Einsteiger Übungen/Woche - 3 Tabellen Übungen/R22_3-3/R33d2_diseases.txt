@@ -1,0 +1,7 @@
+disease name	n cases
+malaria	21
+coronary artery disease	79
+alzheimers	267
+stroke	384
+diabetes	225
+tuberculosis	162

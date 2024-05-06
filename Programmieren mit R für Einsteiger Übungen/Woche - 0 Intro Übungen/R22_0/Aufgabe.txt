@@ -1,0 +1,9 @@
+R22 0.4 Uebungsaufgaben
+======================
+Im Folgenden sind einige kleine Aufgaben um zu demonstrieren, wie das System der Übungsaufgaben funktioniert.  
+Zur Bearbeitung in Rstudio (sehr empfohlen!):  
+- Aufgabe `herunterladen`, ZIP Ordner an einem sinnvollen Ort speichern (entpacken ist optional).  
+- Diesen Browser-Tab schließen, sonst speichert CodeOcean die _leere(!)_ Aufgabe periodisch.  
+- In R/Rstudio `codeoceanR::rt_create()` ausführen, siehe Lektion 0.4 und [Anleitung](https://github.com/openHPI/codeoceanR/blob/main/LIESMICH.md).
+
+Falls du die Aufgaben im Browser bearbeiten möchtest, sind hier einige [wichtige Hinweise](https://github.com/openHPI/codeoceanR/blob/main/LIESMICH.md#codeocean-im-browser).

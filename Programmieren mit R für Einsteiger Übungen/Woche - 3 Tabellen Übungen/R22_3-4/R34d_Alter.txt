@@ -1,0 +1,9 @@
+Name	Alter
+Barbara	17
+David	40
+Jannes	30
+Jennifer	53
+Linda	21
+Maria	4
+Michael	23
+Robert	44

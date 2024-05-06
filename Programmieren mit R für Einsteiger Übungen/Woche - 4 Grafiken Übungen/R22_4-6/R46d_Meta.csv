@@ -1,0 +1,14 @@
+COLUMN_NAME,DATA_TYPE,IS_PERCENT_DATA,DESCRIPTION
+No_Exercise,Decimal,Y,"County data, no exercise"
+Few_Fruit_Veg,Decimal,Y,"County data, few fruits/vegetables"
+Obesity,Decimal,Y,"County data, obesity"
+High_Blood_Pres,Decimal,Y,"County data, high blood pressure"
+Smoker,Decimal,Y,"County data, smoker"
+Diabetes,Decimal,Y,"County data, diabetes"
+Uninsured,Integer,N,"County data, uninsured individuals"
+Elderly_Medicare,Integer,N,"County data, medicare beneficiaries, elderly (age 65+)"
+Disabled_Medicare,Integer,N,"County data, medicare beneficiaries, disabled"
+Prim_Care_Phys_Rate,Decimal,N,"County data, primary care physicians per 100,000 pop."
+Dentist_Rate,Decimal,N,"County data, dentists per 100,000 pop."
+Community_Health_Center_Ind,Integer,N,Indicator for any Community/Migrant Health Centers located in the county
+HPSA_Ind,Integer,N,Indicator for single county designated Health Professional Shortage Area
